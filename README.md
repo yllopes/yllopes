@@ -95,7 +95,7 @@ Sou apaixonado por tecnologia desde sempre e tenho uma grande curiosidade em apr
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=yllopes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
@@ -103,6 +103,7 @@ Sou apaixonado por tecnologia desde sempre e tenho uma grande curiosidade em apr
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yllopes&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
